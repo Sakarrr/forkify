@@ -45,7 +45,7 @@
 63C:\forkify\node_modules\core-js\stable\typed-array\to-sorted.js133630701128161488 0
 48C:\forkify\node_modules\abortcontroller-polyfill133630671481764794 1
 81C:\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\style.js133630671488656252 0
-15C:\forkify\dist133630889192457196 1
+15C:\forkify\dist133630895352841355 1
 49C:\forkify\node_modules\css-select\lib\index.d.ts133630671489371388 0
 41C:\forkify\node_modules\@msgpackr-extract133630749111875686 1
 52C:\forkify\node_modules\nth-check\lib\compile.js.map133630671480204390 0
@@ -238,7 +238,7 @@
 55C:\forkify\node_modules\@parcel\core\src\BundleGraph.js133630671487140946 0
 39C:\forkify\src\sass\_searchResults.scss133592700280362242 0
 96C:\forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Selector.js133630671490811921 0
-31C:\forkify\src\js\controller.js133630885627058886 0
+31C:\forkify\src\js\controller.js133630895418107488 0
 56C:\forkify\node_modules\core-js\stable\string\replace.js133630701119603152 0
 64C:\forkify\node_modules\core-js\stable\instance\last-index-of.js133630701111517556 0
 78C:\forkify\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\import.js133630671492687126 0
@@ -257,7 +257,7 @@
 41C:\forkify\node_modules\csso\package.json133630671490396618 0
 62C:\forkify\node_modules\svgo\plugins\addClassesToSVGElement.js133630671486930945 0
 58C:\forkify\node_modules\core-js\actual\object\is-sealed.js133630701108419769 0
-38C:\forkify\src\js\views\reciepeView.js133630880364075667 0
+38C:\forkify\src\js\views\reciepeView.js133630894871899741 0
 82C:\forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\SelectorList.js133630671493807565 0
 30C:\forkify\src\img\favicon.png133592700277831806 0
 68C:\forkify\node_modules\core-js\features\typed-array\reduce-right.js133630701118292872 0
@@ -9698,7 +9698,7 @@
 34C:\forkify\dist\icons.21bad73c.svg133630889191795784 0
 34C:\forkify\dist\icons.dfd7a6db.svg133630889191795784 0
 26C:\forkify\dist\index.html133630889191825917 0
-33C:\forkify\dist\index.e37f48ea.js133630889192036340 0
-37C:\forkify\dist\index.e37f48ea.js.map133630889192086386 0
 34C:\forkify\dist\index.f7626f62.css133630889192417217 0
 38C:\forkify\dist\index.f7626f62.css.map133630889192447208 0
+33C:\forkify\dist\index.e37f48ea.js133630895352811296 0
+37C:\forkify\dist\index.e37f48ea.js.map133630895352831379 0
