@@ -204,7 +204,7 @@
 64C:\forkify\node_modules\css-select\node_modules\entities\LICENSE133630671475098364 0
 46C:\forkify\node_modules\to-regex-range\LICENSE133630671476153507 0
 35C:\forkify\node_modules\js-yaml\bin133630671481539587 1
-37C:\forkify\src\js\views\resultView.js133631986891780178 0
+37C:\forkify\src\js\views\resultView.js133631987507403507 0
 32C:\forkify\src\sass\_upload.scss133592700280647720 0
 56C:\forkify\node_modules\core-js\actual\string\pad-end.js133630701115648343 0
 56C:\forkify\node_modules\css-tree\cjs\tokenizer\utils.cjs133630671491191850 0
