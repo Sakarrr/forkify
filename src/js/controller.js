@@ -25,7 +25,7 @@ const controlRecipes = async function () {
     await model.loadRecipe(id);
 
     // Render recipe on front-end
-    // recipeView.render(model.state.recipe);
+    recipeView.render(model.state.recipe);
   } catch (err) {
     recipeView.renderError();
     console.log(err);
